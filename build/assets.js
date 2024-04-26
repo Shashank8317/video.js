@@ -5,6 +5,7 @@ const filesize = require('filesize');
 const Table = require('cli-table');
 const path = require('path');
 const sh = require('shelljs');
+//////////////////////////////////// shashakkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
 
 // find all js/css files in the dist dir
 // but ignore any files in lang, example, or font directories
